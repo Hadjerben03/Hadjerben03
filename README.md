@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hadjer Benabdallah 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning UI/UX design 
+- 🌱 Graphic designer
 
 <!---
 Hadjerben03/Hadjerben03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
